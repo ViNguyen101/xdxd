@@ -7,7 +7,7 @@ public:
         int width = 0;
         for(int i : height) {
             cout<<i<<" ";
-
+            //making changes
             width
         } 
         return 0;
